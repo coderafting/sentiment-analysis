@@ -1,0 +1,5 @@
+port: ":3000"
+
+partitions: 4
+
+partitionBuffer: 10
